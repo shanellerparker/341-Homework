@@ -19,4 +19,4 @@ I am relieved to have this assignment done. I feel like this was a pretty big st
 4.DON'T WAIT UNTIL THE LAST MINUTE!
 ```
 ## Screenshot
-![ImageEditor](file:///C:\\Users/ShanelleParker/Documents/341-Homework/week-02-assignment/assignment2image.jpg)
+![ImageEditor](file:///C:\\Users\\ShanelleParker\\Documents\\341-Homework\\week-02assignment\\assignment2image.jpg.)
