@@ -20,5 +20,5 @@ I am relieved to have this assignment done. I feel like this was a pretty big st
 ```
 ## Screenshot
 
-![ImageEditor](https://drive.google.com/file/d/0B1Yvt4AI6wLoUnBZSy1kdXJHQ3M/view?usp=sharing)
+![ImageEditor](https://drive.google.com/drive/my-drive)
 
