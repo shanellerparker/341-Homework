@@ -20,5 +20,4 @@ I am relieved to have this assignment done. I feel like this was a pretty big st
 ```
 ## Screenshot
 
-![ImageEditor](https://drive.google.com/drive/my-drive)
-
+![ImageEditor](https://raw.githubusercontent.com/shanellerparker/341-Homework/master/week-02-assignment/image1.png)
