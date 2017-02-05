@@ -20,4 +20,5 @@ I am relieved to have this assignment done. I feel like this was a pretty big st
 ```
 ## Screenshot
 
-![ImageEditor](/Users/ShanelleParker/Documents/341-Homework/week-02-assignment/Screen Shot 2017-02-05 at 2.01.35 PM.png)
+![ImageEditor](/Users/ShanelleParker/Documents/341-Homework/week-02-assignment/image1.png)
+
