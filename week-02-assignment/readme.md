@@ -2,9 +2,11 @@
 
 ## Introduction
 This week there was a ton of material thrown a me that I have not previously known about. These Included;
+
 -sourcetree
 -atom
 -commands within the terminal
+
 However, I found all of this information very useful in the longterm and worth the shortterm frustration. The little steps from working with text editors to markdown language while working with github.
 ## Struggling
 The initial steps I'd taken to complete this assignment wasn't very productive. I tried to rush through everything without actually learning how to do it. I got very frustrated but I stepped back and read over the material, watched the videos several times, and found youtube very helpful. (https://www.youtube.com/watch?v=tRTckrrCME4) This video and a couple other by the same channel helped me start over again with a better understanding. They helped me understand the few problems with git commands and how specific they need to be.
