@@ -11,3 +11,9 @@ After making it through the first few drafts of my webpage I was finally get the
 ## All Done
 
 I really did enjoy this assignment. However, a little bit relieved that it is over. I mean it was a lot of material to have to learn and try to get it right because a missing quotation will mess things up. But excited and scared for the next one!
+
+## Screenshots
+
+![ImageEditor](https://raw.githubusercontent.com/shanellerparker/341-Homework/master/week-05-assignment/imgs/Screen%20Shot%202017-03-08%20at%2011.33.48%20AM.png)
+
+![ImageEditor](https://raw.githubusercontent.com/shanellerparker/341-Homework/master/week-05-assignment/imgs/Screen%20Shot%202017-03-08%20at%2011.34.00%20AM.png)
