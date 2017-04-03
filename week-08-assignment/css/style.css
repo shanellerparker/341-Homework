@@ -5,43 +5,15 @@
   margin: 30px 0px 10px;
 }
 
-h2. {
-  font-size: 50pt;
+
+
+body {
   font-family: 'Raleway', sans-serif;
-  .boxed border: 2px solid #DAA520
-}
-
-h5. {
-  font-size: 25;
-  font-family: 'Lobster',cursive;
-}
-
-h4. {
   font-size: 35;
-  font-family: 'Lobster',cursive;}
-
-
-  p. {
-    font-family: 'Raleway', sans-serif;
-    font-size: 35;
-    color:#F8F8FF
-    text-align: justify;
-    margin: 20px 15% 0px;
-    text-indent: 1em;
-}
-
-
-  p.first line-p{
-    font-family: 'Raleway400i', sans-serif;
-    color: #DAA520
-}
-    p.first letter-p{
-    first letter-p
-    font-family: 'Lobster', cursive;
-    color: ##DAA520
-}
-
-body. {
+  color:#F8F8FF
+  text-align: justify;
+  margin: 20px 15% 0px;
+  text-indent: 1em;
   background-image: url("Empty.jpeg");
   min-height: 100%;
   min-width: 1024px;
@@ -49,4 +21,49 @@ body. {
   top: 0;
   left: 0;
   background-repeat: no-repeat;
+}
+
+.border-element {
+  color: #DAA520
+  text-align:center;
+  font-size: 50
+  font-family: 'Raleway', sans-serif;
+
+}
+
+
+h5 {
+  font-size: 25;
+  font-family: 'Lobster', cursive;
+}
+
+h4 {
+  font-size: 35;
+  font-family: 'Lobster', cursive;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 35;
+  color:#F8F8FF
+  text-align: justify;
+  margin: 20px 15% 0px;
+  text-indent: 1em;
+  background-image: url("Empty.jpeg");
+  min-height: 100%;
+  min-width: 1024px;
+  background-position: fixed ;
+  top: 0;
+  left: 0;
+  background-repeat: no-repeat;
+}
+
+.text-element::first-line {
+    font-family: 'Raleway400i', sans-serif;
+    color: #DAA520
+}
+
+.text-element::first-letter {
+    font-family: 'Lobster', cursive;
+    color: ##DAA520
 }
