@@ -8,7 +8,7 @@
 h2 {
   font-size: 50pt;
   font-family: 'Raleway', sans-serif;
-  .boxed border: 2px solid goldenrod
+  .boxed border: 2px solid #F8F8FF
 }
 
 h5 {
@@ -22,44 +22,31 @@ h4 {
 
 body {
   background-color: #000000;
-  background-image: url("snowflakes.png");
-  min-height: 400px;
-  min-width: 100px;
-  background-attachment: fixed;
-  background-position: right top;
+  background-image: url("Empty.jpeg");
+  min-height: 100%;
+  min-width: 1024px;
+  background-position: fixed ;
+  top: 0;
+  left: 0;
   background-repeat: no-repeat;
-  margin-right: 2em;
+
 }
 
-p {
-  font-family: 'Arial', sans-serif;
-  color: darkblue;
+p. {
+  font-family: 'Raleway', sans-serif;
+  color:#F8F8FF
   text-align: justify;
   margin: 20px 15% 0px;
   text-indent: 1em;
-}
+    }
 
-p.first-p {
-  border-top-style: dotted;
-  padding-top: 25px;
-  margin-top: 25px;
-  border-width: 2px;
-  border-color: #3d4281;
-}
+p.first-line-p {
+  font-family: 'Raleway400i', sans-serif;
+  color: #DAA520
 
-p.first-transition {
-  border-bottom-style: dotted;
-  padding-bottom: 25px;
-  margin-bottom: 25px;
-  border-width: 2px;
-  border-color: #3d4281;
 }
+  p.first-letter-p{
+  font-family: 'Lobster', cursive;
+  color: ##DAA520
 
-p.end-p {
-  border-bottom-style: groove;
-  padding-bottom: 40px;
-  margin-bottom: 25px;
-  border-width: 2px;
-  border-color: #3d4281;
-  font-style: oblique;
 }
