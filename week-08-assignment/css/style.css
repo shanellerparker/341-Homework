@@ -14,10 +14,10 @@ body {
   text-align: justify;
   margin: 20px 15% 0px;
   text-indent: 1em;
-  background-image: url("Empty.jpeg");
+  background-image: url("https://github.com/shanellerparker/341-Homework/blob/master/week-08-assignment/css/Empty.png?raw=true");
   min-height: 100%;
   min-width: 1024px;
-  background-position: fixed ;
+  background-position: fixed;
   top: 0;
   left: 0;
   background-repeat: no-repeat;
