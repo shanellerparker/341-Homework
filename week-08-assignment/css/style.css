@@ -28,20 +28,18 @@ h4. {
     text-align: justify;
     margin: 20px 15% 0px;
     text-indent: 1em;
-      }
+}
 
 
-  p.{
-    first line-p
+  p.first line-p{
     font-family: 'Raleway400i', sans-serif;
     color: #DAA520
-  }
-    p.{
+}
+    p.first letter-p{
     first letter-p
     font-family: 'Lobster', cursive;
     color: ##DAA520
-
-  }
+}
 
 body. {
   background-image: url("Empty.jpeg");
@@ -51,5 +49,4 @@ body. {
   top: 0;
   left: 0;
   background-repeat: no-repeat;
-
 }
