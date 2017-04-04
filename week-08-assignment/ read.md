@@ -16,5 +16,6 @@
   So I learned alot but also learned that I didn't know the matieral as well as I thought I did. I am still going
   to try to fix my site, but not tonight...no it was a bit too much. I enjoy all the intricacies that go into
   web designing, but this week by far was the most overwhelming.
-
-### Screen shot
+![ImageEditor] (https://raw.githubusercontent.com/shanellerparker/341-Homework/master/week-08-assignment/Screen%20Shot%202017-04-03%20at%2011.20.29%20PM.png)
+![ImageEditor] (https://raw.githubusercontent.com/shanellerparker/341-Homework/master/week-08-assignment/Screen%20Shot%202017-04-03%20at%2011.20.14%20PM.png)
+![ImageEditor](https://raw.githubusercontent.com/shanellerparker/341-Homework/master/week-08-assignment/Screen%20Shot%202017-04-03%20at%2011.20.29%20PM.png)
