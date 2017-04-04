@@ -26,7 +26,8 @@ body {
   background-repeat: no-repeat
 }
 
-#first-letter::first-letter {
+#first-letter::first-letter
+{
   font-size:20;
   color: #goldenrod;
 }
@@ -53,7 +54,7 @@ p first-transition {
   color: goldenrod;
 }
 
-p.end-p {
+p first-transition {
   border-bottom-style: dashed;
   padding-bottom: 40px;
   margin-bottom: 15px;
