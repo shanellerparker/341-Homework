@@ -1,69 +1,84 @@
-.heading {
-  color: #F8F8FF;
-  text-align: center;
-  font-family: 'Lobster', cursive;
-  margin: 30px 0px 10px;
-}
-
-
 
 body {
-  font-family: 'Raleway', sans-serif;
-  font-size: 35;
-  color:#F8F8FF
-  text-align: justify;
-  margin: 20px 15% 0px;
-  text-indent: 1em;
-  background-image: url("https://github.com/shanellerparker/341-Homework/blob/master/week-08-assignment/css/Empty.png?raw=true");
-  min-height: 100%;
-  min-width: 1024px;
-  background-position: fixed;
-  top: 0;
-  left: 0;
-  background-repeat: no-repeat;
+    background-image: url("Empty.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-color: #000000
 }
 
 .border-element {
-  color: #DAA520
-  text-align:center;
-  font-size: 50
-  font-family: 'Raleway', sans-serif;
-
+  border-style: solid;
+  border-width: 2px;
+  border-color: goldenrod
+  padding: 10px;
 }
 
+h1 {
+  font-family: 'Raleway',sans-serif;
+  font-size: 55;
+  text-align: center;
+  color: ghostwhite;
+}
 
-h5 {
-  font-size: 25;
-  font-family: 'Lobster', cursive;
+h3 {
+  font-family: 'Lobster',cursive;
+  font-size: 30;
+  text-align: right;
+  color:ghostwhite;
 }
 
 h4 {
-  font-size: 35;
-  font-family: 'Lobster', cursive;
-}
-
-body {
-  font-family: 'Raleway', sans-serif;
-  font-size: 35;
-  color:#F8F8FF
-  text-align: justify;
-  margin: 20px 15% 0px;
-  text-indent: 1em;
-  background-image: url("Empty.jpeg");
-  min-height: 100%;
-  min-width: 1024px;
-  background-position: fixed ;
-  top: 0;
-  left: 0;
-  background-repeat: no-repeat;
+  font-family: 'Lobster',cursive;
+  font-size: 40
+  text-align:center;
+  color: ghostwhite
 }
 
 .text-element::first-line {
     font-family: 'Raleway400i', sans-serif;
-    color: #DAA520
+    font-size: 20;
+    text-align:justify;
+    kerning: .05px
+    margin: 20px 15% 0px;
+    text-indent: 1em;
+    color: goldenrod
 }
 
-.text-element::first-letter {
-    font-family: 'Lobster', cursive;
-    color: ##DAA520
+p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20;
+  text-align: justify;
+  margin: 20px 15% 0px;
+  text-indent: 1em;
+  color: ghostwhite
+}
+
+
+  first-transition {
+  border-bottom-style: dashed;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-width: 4px;
+  border-color: goldenrod;
+}
+
+.hover-element {
+    font-size: 20;
+    color: ghostwhite;
+    padding: 1em;
+    text-align: center;
+}
+.hover-element:hover {
+    font-size: 22;
+    background-color: goldenrod;
+    color: ghostwhite;
+    text-transform:'more to come!';
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 0.2em;
+    padding: 0em;
+    height: 60%;
+
 }
