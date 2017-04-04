@@ -10,15 +10,15 @@ h2 {
   font-size: 48;
   color: goldenrod;
   text-transform: capitalize;}
-h1:hover {
+h2:hover {
   color: ghostwhite
 }
 
 
 
 body {
-  background-color: white;
-  background-image: image(341-Homework/week-08-assignment/css/Empty.png);
+  background-color: transparent;
+  background-image: url(341-Homework/week-08-assignment/css/Empty.pn);
   min-height: 100%;
   min-width: 1024px;
   background-attachment: fixed;
@@ -26,14 +26,9 @@ body {
   background-repeat: no-repeat
 }
 
-}
-
-p.first-p {
-  border-top-style: solid;
-  padding-top: 15px;
-  margin-top: 15px;
-  border-width: 4px;
-  border-color: goldenrod;
+#first-letter::first-letter {
+  font-size:20;
+  color: #goldenrod;
 }
 
 p {
@@ -54,11 +49,7 @@ p first-transition {
   border-color: goldenrod;
 }
 
-#first-letter::first-letter {font-size:20;
-  color: #goldenrod;
-}
-
-#Five minutes,{
+#Five {
   color: goldenrod;
 }
 
