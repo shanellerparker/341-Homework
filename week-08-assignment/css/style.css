@@ -5,22 +5,6 @@
   margin: 35px 0px 10px;
 }
 
-#title {
-  font-family: 'Raleway400',sans-serif;
-  font-size: 48;
-  color: goldenrod;
-  text-transform: capitalize;
-}
-
-#title:hover {
-  color: ghostwhite
-}
-
-#first-letter::first-letter {
-  font-size:20;
-  color: #goldenrod;
-}
-
 body {
   background-color: transparent;
   background-image: url(341-Homework/week-08-assignment/css/Empty.png);
@@ -31,11 +15,22 @@ body {
   background-repeat: no-repeat
 }
 
-#first-letter::first-letter
-{
-  font-size:20;
-  color: #goldenrod;
+
+h2 {
+  font-family: 'Raleway400',sans-serif;
+  font-size: 48;
+  color: goldenrod;
+  text-transform: capitalize;
 }
+
+h2 :hover {
+  color: ghostwhite
+}
+
+#first-letter::first-letter {
+font-size:20; color: #goldenrod;
+}
+
 
 p {
   font-family: 'Raleway400', sans-serif;
@@ -46,7 +41,6 @@ p {
   text-indent: 1em;
 }
 
-
 p first-transition {
   border-bottom-style: dotted;
   padding-bottom: 15px;
@@ -54,11 +48,9 @@ p first-transition {
   border-width: 4px;
   border-color: goldenrod;
 }
-
-#Five {
+#Five-emphasis {
   color: goldenrod;
 }
-
 p first-transition {
   border-bottom-style: dashed;
   padding-bottom: 40px;
