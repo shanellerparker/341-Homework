@@ -1,0 +1,71 @@
+.heading {
+  color: goldenrod;
+  text-align: center;
+  font-family: 'Lobster',cursive;
+  margin: 35px 0px 10px;
+}
+
+h2 {
+  h1 {font-family: 'Raleway400',sans-serif;
+  font-size: 48;
+  color: goldenrod;
+  text-transform: capitalize;}
+h1:hover {
+  color: ghostwhite
+}
+
+
+
+body {
+  background-color: white;
+  background-=<img src=/shanellerparker/341-Homework/blob/master/week-08-assignment/css/empty.png?raw=true>
+  min-height: 100%;
+  min-width: 1024px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat
+}
+
+}
+
+p.first-p {
+  border-top-style: solid;
+  padding-top: 15px;
+  margin-top: 15px;
+  border-width: 4px;
+  border-color: goldenrod;
+}
+
+p {
+  font-family: 'Raleway400', sans-serif;
+  font-size:20
+  color: ghostwhite;
+  text-align: justify;
+  margin: 15px 15% 0px;
+  text-indent: 1em;
+}
+
+
+p first-transition {
+  border-bottom-style: dotted;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+  border-width: 4px;
+  border-color: goldenrod;
+}
+
+#first-letter::first-letter {font-size:20;
+  color: #goldenrod;
+}
+
+#Five minutes,{
+  color: goldenrod;
+}
+
+p.end-p {
+  border-bottom-style: dashed;
+  padding-bottom: 40px;
+  margin-bottom: 15px;
+  border-width: 4px;
+  border-color: goldenrod;
+}
