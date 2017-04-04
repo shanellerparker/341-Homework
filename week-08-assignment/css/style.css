@@ -5,20 +5,25 @@
   margin: 35px 0px 10px;
 }
 
-h2 {
-  h1 {font-family: 'Raleway400',sans-serif;
+#title {
+  font-family: 'Raleway400',sans-serif;
   font-size: 48;
   color: goldenrod;
-  text-transform: capitalize;}
-h2:hover {
+  text-transform: capitalize;
+}
+
+#title:hover {
   color: ghostwhite
 }
 
-
+#first-letter::first-letter {
+  font-size:20;
+  color: #goldenrod;
+}
 
 body {
   background-color: transparent;
-  background-image: url(341-Homework/week-08-assignment/css/Empty.pn);
+  background-image: url(341-Homework/week-08-assignment/css/Empty.png);
   min-height: 100%;
   min-width: 1024px;
   background-attachment: fixed;
