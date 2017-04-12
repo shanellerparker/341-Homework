@@ -1,0 +1,227 @@
+<link href="https://fonts.googleapis.com/css?family=Raleway400" rel="stylesheet">
+
+
+#site-header {
+              background-color: black;
+              margin: 0;
+              height: 140px;}
+
+#title {
+        float: left;
+        margin-left: 0.75em;
+        font-family: 'Raleway400', sans-serif;;
+        font-size: 30px;
+        color: red;}
+
+#site-logo {
+            float: right;
+            padding: 10px;
+            margin-right: 0.75em;}
+
+#content {
+          width: 100%;
+          margin: 0 auto;
+          overflow: auto;}
+
+#side-menu {
+            margin: 0;
+            padding: 0;
+            float: left;
+            width: 20%;
+            min-height: 420px;
+            height: 100%;
+            background-color: red;}
+
+#main {
+       margin: 0;
+       padding: 0;
+       float: right;
+       width: 80%;
+       max-height: 420px;
+       height: 100%;
+       background-color: red;
+       overflow: scroll;}
+
+#explained {
+             color: white;
+             text-align: center;
+             font-family: 'Raleway400', sans-serif;
+             text-indent: r0px;
+             line-height: 1.4em;
+             font-size: 16px}
+
+
+#stitches {
+           color: white;
+           font-family: 'Raleway400', sans-serif;
+           line-height: 1.4em;
+           font-size: 16px;
+           text-align: left;
+           position: relative;
+           left: 45%;}
+
+.menu-container {
+                 background-color: red;
+                 margin: 0;
+                 padding: 0;}
+
+.menuitem {
+          display: inline-block;
+          padding: 0.5em 1em;
+          padding-right: 2.5em;
+          text-align: left;
+          text-decoration: none;
+          font-family: 'Raleway400', sans-serif;
+          color: black;
+        }
+
+.menuitem:hover, .dropdown:hover {
+                                  color: red
+                                  background-color: black;}
+
+.dropdown {
+           display: inline-block;
+           width: 10%;
+           min-width: 100px;}
+
+.dropdown-content {
+                   display: none;
+                   position: absolute;
+                   border: 3px solid black;
+                   margin: 0;
+                   color: black;
+                   background-color: black;
+                   z-index: 1;}
+
+.dropdown-content a {
+                     color: white;
+                     text-decoration: none;}
+
+.dropdown:hover .dropdown-content {
+                                   display: block;}
+
+.dropdown-item {
+                display: block;
+                text-align: left;
+                font-family: 'Raleway400', sans-serif;;
+                margin: 0;
+                padding: 0.5em;
+                min-width: 7em;}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+                                              color: yellow);
+                                              background-color:  black;}
+
+
+h3 {
+    text-align: center;
+    font-family: 'Raleway400', sans-serif;;
+    font-size: 27px;
+    position: static;}
+
+#links {
+        text-align: center;}
+
+#links a {
+          color: yellow;}
+
+#beginnertips:hover a {
+                  color: yellow;}
+
+#seedbeadintro:hover a {
+                    color: yellow;}
+
+#turtorials:hover a {
+              color: yellow;}
+
+#supplies:hover a {
+              color: yellow;}
+
+#beginnertips a {
+            border: 2px solid;
+            padding: 5px;
+            margin: 2px;
+            font-family: 'Raleway400', sans-serif;}
+
+#seedbeadintro a {
+              border: 2px solid;
+              padding: 5px;
+              margin: 2px;
+              font-family: 'Raleway400', sans-serif;}
+
+
+#turtorials a {
+        border: 2px solid;
+        padding: 5px;
+        margin: 2px;
+        font-family: 'Raleway400', sans-serif;}
+
+#seedbeadintro a {
+        border: 2px solid;
+        padding: 5px;
+        margin: 2px;
+        font-family: 'Raleway400', sans-serif;}
+
+.slider-holder
+          {
+                width: 800px;
+                height: 400px;
+                background-color: yellow;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 0px;
+                text-align: center;
+                overflow: hidden;
+            }
+
+.image-holder
+            {
+                width: 2400px;
+                background-color: red;
+                height: 400px;
+                clear: both;
+                position: relative;
+
+                -webkit-transition: left 2s;
+                -moz-transition: left 2s;
+                -o-transition: left 2s;
+                transition: left 2s;
+            }
+
+.slider-image
+            {
+                float: left;
+                margin: 0px;
+                padding: 0px;
+                position: relative;
+            }
+
+#gallery1 :target a  {~ .image-holder
+
+                left: 0px;
+            }
+
+#gallery2:target a {~ .image-holder
+
+                left: -800px;
+            }
+
+#gallery3:target a {~ .image-holder
+
+                left: -1600px;
+            }
+
+.button-holder
+            {
+                position: relative;
+                top: -20px;
+            }
+
+.slider-change
+            {
+                display: inline-block;
+                height: 10px;
+                width: 10px;
+                border-radius: 5px;
+                background-color: brown;
+            }
