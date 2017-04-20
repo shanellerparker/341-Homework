@@ -1,0 +1,15 @@
+
+@charset "utf-8";
+/* CSS Document */a{}#main-container {        display: inline-flex;        flex-wrap: wrap;}.flex-item {    width: 100%;    height: 100%;}.powderblue {
+        background-color:#B0E0E6;
+        width: 100%;        text-align: center;        order: 1;        outline: auto;}.darkcyan {
+        background-color:#008B8B;
+        width: 50%;        text-align: center;        order: 2;        align-content: center;        height: auto;}.lightseagreen {
+        background-color:##20B2AA;
+        width: 50%;        text-align: center;        order: 3;        height: auto;}.lightslategray {
+        background-color:#778899;
+        width: 100%;        text-align: center;        order: 4;}@media screen and (max-width: 800px) {        .greyblue{width: 100%;        }    .darkcyan {
+width: 100%;        }     .lightseagreen {
+width: 100%;} .darkseagreen {
+color: aquamarinehttps://laurasugi.github.io/Week-10hw/style.css 1/2
+4/19/2017 https://laurasugi.github.io/Week-10hw/style.csswidth: 100%;} }
