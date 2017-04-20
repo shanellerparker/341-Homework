@@ -17,5 +17,5 @@
   get to involved. It took me forever to come up with this layout. I really
   wanted it to be just right.
 
-  ![ImageEditor](https://raw.githubusercontent.com/shanellerparker/341-Homework/master/week-10-assignment/images/FinalSkectch1.JPEG)
-  ![ImageEditor](https://raw.githubusercontent.com/shanellerparker/341-Homework/master/week-10-assignment/images/finalsketch1mobile.JPEG)
+  ![ImageEditor](https://raw.githubusercontent.com/shanellerparker/341-Homework/master/week-10-assignment/images/FinalSkectch1.jpg)
+  ![ImageEditor](https://raw.githubusercontent.com/shanellerparker/341-Homework/master/week-10-assignment/images/finalsketch1mobile.jpg)
